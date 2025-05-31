@@ -12,21 +12,21 @@ Players can visit repair stations to fix their weapons, with full control over r
 
 ## 🚀 Features
 
-- 🔫 **Repair Any Supported Weapon** – Players can restore weapon durability at repair points.
-- ⛔ **Blacklist Illegal or Unregistered Weapons** – Prevent specific guns from being repaired.
-- 🛠️ **Max Repair Limit** – Restrict how many times each weapon can be repaired.
-- ⏱️ **Custom Repair Time** – Set how long repairs take based on your gameplay style.
-- 💸 **Configurable Repair Cost** – Charge players based on weapon or type.
-- 🖥️ **Clean & Optimized UI** – Fast, modern interface using OX Inventory.
-- 🌐 **Multi-language Support** – Translate to any language easily.
+- 🔫 **Repair Any Supported Weapon** – Players can restore weapon durability at repair points.  
+- ⛔ **Blacklist Illegal or Unregistered Weapons** – Prevent specific guns from being repaired.  
+- 🛠️ **Max Repair Limit** – Restrict how many times each weapon can be repaired.  
+- ⏱️ **Custom Repair Time** – Set how long repairs take based on your gameplay style.  
+- 💸 **Configurable Repair Cost** – Charge players based on weapon or type.  
+- 🖥️ **Clean & Optimized UI** – Fast, modern interface using OX Inventory.  
+- 🌐 **Multi-language Support** – Translate to any language easily.  
 - ⚙️ **Fully Configurable** – Simple config file for easy adjustments.
 
 ---
 
 ## 📦 Framework Support
 
-- ✅ QBCore
-- ✅ QBox
+- ✅ QBCore  
+- ✅ QBox  
 - ✅ ESX  
 > **Note:** This script **only supports OX Inventory**.
 
@@ -43,4 +43,17 @@ Players can visit repair stations to fix their weapons, with full control over r
 - ✅ **OX Inventory**  
 - ❌ Not compatible with other inventory systems.
 
+---
 
+## 🛒 Purchase
+
+Get the Gun Repair System now on Tebex:  
+[https://smoothscript.tebex.io/package/6840276](https://smoothscript.tebex.io/package/6840276)
+
+---
+
+## 💬 Support
+
+Need help or want to request custom features?  
+Join our Discord community:  
+[https://discord.gg/sZcPPR2e2X](https://discord.gg/sZcPPR2e2X)
